@@ -2,8 +2,6 @@
 
 - 🚀 I am passionate about technology and I'm interested in finance 📉📈.
 
-- 👨‍🚀 Currently, I am testing some features of a web-based CRM app with Selenium Python bindings.
-
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mkimba-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mkimba/)
 
 #### Programming Languages:
